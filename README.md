@@ -20,7 +20,7 @@ In the future I would like to programatically be able to chose whether to displa
 
 ## Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,jake-digby.github.io&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
 
 ## License
 ![](https://img.shields.io/github/license/digby-j/eyes)
