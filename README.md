@@ -18,6 +18,10 @@ Please ensure the files are all downladed into the same root direcotry, this wil
 
 In the future I would like to programatically be able to chose whether to display 1 eye or 2 based on user input.
 
+## Languages Used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
+
 ## License
 ![](https://img.shields.io/github/license/digby-j/eyes)
 
