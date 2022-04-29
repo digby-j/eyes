@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This repo showcases my work with HTML, CSS and JavaScript to bring a pair of eyes to life in the browser.
+This repo explores javascript functionality with arrays and setTimeout, on click a pacman icon will move across the screen, then change directions when it detects the edge of the screen.
 
 ## Installation
 
@@ -16,17 +16,17 @@ Please ensure the files are all downladed into the same root direcotry, this wil
 
 ## Road Map
 
-In the future I would like to programatically be able to chose whether to display 1 eye or 2 based on user input.
+I would like to add button to the ui and allow the player more control over pacman or how many there are on screen.
 
 ## Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,jake-digby.github.io&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,digby-j.github.io,Shopping-Cart,eyes&layout=compact)](https://github.com/digby-j/PacMan/github-readme-stats)
 
 ## License
-![](https://img.shields.io/github/license/digby-j/eyes)
+![](https://img.shields.io/github/license/digby-j/PacMan)
 
 ### Please read the MIT License here:
-<a href src="https://github.com/digby-j/jake-digby.github.io/blob/main/LICENSE">MIT License</a>
+<a href src="https://github.com/digby-j/PacMan/blob/main/LICENSE">MIT License</a>
 
 ## Contact Information
 ### Let's Connect
