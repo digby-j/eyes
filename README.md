@@ -1,6 +1,6 @@
 # Eyes
 ## Exercise on eyes
-<img src= "./img/oneeye.png" width='300'/>
+<img src= "./img/oneeye.png" width='300' align='right'/>
 
 -------------
 
