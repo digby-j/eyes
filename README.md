@@ -14,13 +14,19 @@ Thanks for taking interest in my repo! If you would like to download this conten
 
 Please ensure the files are all downladed into the same root direcotry, this will allow you to deploy it locally and interact with the webpage as if it were hosted on Pages.
 
+To run this application locally you will need top do the following:
+
+1. Download or clone the repo into a direcotry of your choosing
+2. Navigate to that direcotry and open file: "index.html" in your browser of choice.
+3. Once loaded, simply move your cursor around the web browser and watch the eyes follow your cursor.
+
 ## Road Map
 
 In the future I would like to programatically be able to chose whether to display 1 eye or 2 based on user input.
 
 ## Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,digby-j.github.io,Shopping-Cart,PacMan&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,digby-j.github.io,Real-Time-Bus-Tracker,Shopping-Cart,PacMan&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
 
 ## License
 ![](https://img.shields.io/github/license/digby-j/eyes)
