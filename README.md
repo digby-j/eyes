@@ -7,6 +7,12 @@
 ## Introduction
 
 This repo showcases my work with HTML, CSS and JavaScript to bring a pair of eyes to life in the browser.
+Thanks for your Interest! 😎
+- You can see it, live, [here](https://digby-j.github.io/eyes/)
+
+- You can also check out my other projects and about me [here](https://github.com/digby-j)
+
+- or my Portfolio Website - also with on GitHub Pages [here](https://digby-j.github.io/)
 
 ## Installation
 
